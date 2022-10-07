@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Eduardo Oris
 
-- 🌱 Estudando JavaScript...
+- 🖥🖱 Estudando JavaScript...
 
 ##
 
