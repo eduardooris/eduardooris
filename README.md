@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Eduardo Oris
 
 - 🖥🖱 Olá, me chamo Eduardo Oris. Atualmente estou atuando como desenvolvedor web e mobile na Tecnorise.
-- Tenho conhecimento em React, React Native, Redux, Apollo Hooks, Tailwind, Arquitetura MVC no Front-end, Swift, SwiftUI.
+- Tenho conhecimento em React, React Native, Redux, Apollo Hooks, Tailwind, Arquitetura MVVM, Objective-C, Swift, SwiftUI.
 
 ##
 
