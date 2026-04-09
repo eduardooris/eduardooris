@@ -17,7 +17,6 @@ Especialista em React Native, Swift e Kotlin — do zero à loja.
 - 🍎 Integração com ecossistema Apple: **CarPlay, Widgets iOS, Apple Watch**
 
 ### 🌐 Open Source
-- [EvolutionAPI](https://github.com/EvolutionAPI) — contribuidor ativo
 - react-native-gear-ui — biblioteca de componentes mobile
 
 ### 📫 Contato
