@@ -1,6 +1,6 @@
 ## Olá, sou Eduardo Oris 👋
 
-Senior Mobile Engineer com +3 anos entregando apps de alta escala.
+Senior Mobile Engineer com 5 anos entregando apps de alta escala.
 Especialista em React Native, Swift e Kotlin — do zero à loja.
 
 ### 🚀 Stack Principal
